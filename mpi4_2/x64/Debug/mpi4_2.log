@@ -1,0 +1,3 @@
+﻿  mpi4_2.cpp
+C:\Users\sosatb\source\repos\mtpp2\mpi4_2\mpi4_2.cpp(16,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  mpi4_2.vcxproj -> C:\Users\sosatb\source\repos\mtpp2\x64\Debug\mpi4_2.exe

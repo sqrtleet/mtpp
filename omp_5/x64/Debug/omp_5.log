@@ -1,0 +1,3 @@
+﻿  omp_5.cpp
+C:\Users\sosatb\source\repos\mtpp2\omp_5\omp_5.cpp(43,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  omp_5.vcxproj -> C:\Users\sosatb\source\repos\mtpp2\x64\Debug\omp_5.exe

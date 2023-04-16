@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (mpi.vcxproj, mtpp2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  mpi1_4.cpp
+C:\Users\sosatb\source\repos\mtpp2\mtpp2\mpi1_4.cpp(36,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  mtpp2.vcxproj -> C:\Users\sosatb\source\repos\mtpp2\x64\Debug\mpi1_4.exe

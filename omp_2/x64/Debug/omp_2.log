@@ -1,4 +1,0 @@
-﻿  omp_2.cpp
-C:\Users\sosatb\source\repos\mtpp2\omp_2\omp_2.cpp(15,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\sosatb\source\repos\mtpp2\omp_2\omp_2.cpp(16,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  omp_2.vcxproj -> C:\Users\sosatb\source\repos\mtpp2\x64\Debug\omp_2.exe

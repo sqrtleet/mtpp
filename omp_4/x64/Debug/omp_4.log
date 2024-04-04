@@ -1,4 +1,0 @@
-﻿  omp_4.cpp
-C:\Users\sosatb\source\repos\mtpp2\omp_4\omp_4.cpp(10,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\sosatb\source\repos\mtpp2\omp_4\omp_4.cpp(21,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  omp_4.vcxproj -> C:\Users\sosatb\source\repos\mtpp2\x64\Debug\omp_4.exe
